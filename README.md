@@ -1,3 +1,3 @@
 # tic-tac-toe
-tic tac toe game
+tic tac toe game.
 create by-raksha srivastava
